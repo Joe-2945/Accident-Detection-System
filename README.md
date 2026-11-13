@@ -6,7 +6,7 @@ This project aims to improve road safety by combining computer vision and real-t
 
 The application uses a trained YOLOv8 model to identify road hazards and provides a web-based dashboard for monitoring detected events, vehicle location, and accident information.
 
-<<<<<<< HEAD
+
 ✨ Key Features
 AI-Based Detection: YOLOv8-powered road hazard detection.
 Image Detection: Upload images for hazard analysis.
