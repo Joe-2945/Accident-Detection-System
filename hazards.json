@@ -1,0 +1,254 @@
+[
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.940473,
+    "longitude": 76.744195,
+    "confidence": 0.61,
+    "timestamp": "2026-04-08 22:32:31"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.940239,
+    "longitude": 76.745094,
+    "confidence": 0.77,
+    "timestamp": "2026-04-08 22:32:52"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.941636,
+    "longitude": 76.744805,
+    "confidence": 0.68,
+    "timestamp": "2026-04-08 22:33:03"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.940551,
+    "longitude": 76.745264,
+    "confidence": 0.67,
+    "timestamp": "2026-04-08 22:34:00"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.941254,
+    "longitude": 76.745346,
+    "confidence": 0.86,
+    "timestamp": "2026-04-08 22:34:03"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.941331,
+    "longitude": 76.744815,
+    "confidence": 0.82,
+    "timestamp": "2026-04-08 22:34:06"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.941073,
+    "longitude": 76.745232,
+    "confidence": 0.82,
+    "timestamp": "2026-04-08 22:34:10"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.941108,
+    "longitude": 76.744616,
+    "confidence": 0.8,
+    "timestamp": "2026-04-08 22:34:14"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.941723,
+    "longitude": 76.744946,
+    "confidence": 0.77,
+    "timestamp": "2026-04-08 22:34:18"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.940267,
+    "longitude": 76.744227,
+    "confidence": 0.75,
+    "timestamp": "2026-04-08 22:34:21"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.941446,
+    "longitude": 76.744596,
+    "confidence": 0.9,
+    "timestamp": "2026-04-08 22:34:25"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.941702,
+    "longitude": 76.744766,
+    "confidence": 0.91,
+    "timestamp": "2026-04-08 22:34:28"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.940494,
+    "longitude": 76.745168,
+    "confidence": 0.91,
+    "timestamp": "2026-04-08 22:34:32"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.940485,
+    "longitude": 76.744873,
+    "confidence": 0.86,
+    "timestamp": "2026-04-08 22:42:38"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.940964,
+    "longitude": 76.744267,
+    "confidence": 0.81,
+    "timestamp": "2026-04-08 22:42:42"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.790201,
+    "longitude": 78.704801,
+    "confidence": 0.41,
+    "timestamp": "2026-04-08 22:56:07"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.790394,
+    "longitude": 78.705226,
+    "confidence": 0.8,
+    "timestamp": "2026-04-08 22:56:10"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.790663,
+    "longitude": 78.705144,
+    "confidence": 0.85,
+    "timestamp": "2026-04-09 09:30:14"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.790152,
+    "longitude": 78.705394,
+    "confidence": 0.81,
+    "timestamp": "2026-04-09 09:30:17"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.790242,
+    "longitude": 78.704098,
+    "confidence": 0.46,
+    "timestamp": "2026-04-09 09:30:21"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.789873,
+    "longitude": 78.704054,
+    "confidence": 0.73,
+    "timestamp": "2026-04-09 09:30:46"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.789768,
+    "longitude": 78.704746,
+    "confidence": 0.64,
+    "timestamp": "2026-04-09 09:30:50"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.937112,
+    "longitude": 76.741519,
+    "confidence": 0.84,
+    "timestamp": "2026-04-09 09:31:51"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.936885,
+    "longitude": 76.741856,
+    "confidence": 0.84,
+    "timestamp": "2026-04-09 09:31:56"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.936657,
+    "longitude": 76.741985,
+    "confidence": 0.84,
+    "timestamp": "2026-04-09 09:31:59"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.935793,
+    "longitude": 76.741536,
+    "confidence": 0.66,
+    "timestamp": "2026-04-09 09:32:09"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.935737,
+    "longitude": 76.741038,
+    "confidence": 0.62,
+    "timestamp": "2026-04-09 09:32:12"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.936004,
+    "longitude": 76.741282,
+    "confidence": 0.52,
+    "timestamp": "2026-04-09 09:32:55"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.935776,
+    "longitude": 76.741417,
+    "confidence": 0.73,
+    "timestamp": "2026-04-09 09:32:58"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.936258,
+    "longitude": 76.740754,
+    "confidence": 0.58,
+    "timestamp": "2026-04-09 09:33:01"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.791159,
+    "longitude": 78.705311,
+    "confidence": 0.7,
+    "timestamp": "2026-04-09 10:09:00"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.790138,
+    "longitude": 78.705203,
+    "confidence": 0.77,
+    "timestamp": "2026-04-09 10:09:06"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.790623,
+    "longitude": 78.70454,
+    "confidence": 0.74,
+    "timestamp": "2026-04-09 10:09:16"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.791106,
+    "longitude": 78.704993,
+    "confidence": 0.76,
+    "timestamp": "2026-04-09 10:09:22"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.790899,
+    "longitude": 78.703919,
+    "confidence": 0.75,
+    "timestamp": "2026-04-09 10:09:28"
+  },
+  {
+    "hazard_type": "pothole",
+    "latitude": 10.789877,
+    "longitude": 78.705023,
+    "confidence": 0.45,
+    "timestamp": "2026-04-09 10:09:32"
+  }
+]

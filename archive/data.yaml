@@ -1,0 +1,5 @@
+train: C:\Users\joepu\Downloads\Project 2026\road_project\archive\train\images
+val: C:\Users\joepu\Downloads\Project 2026\road_project\archive\valid\images
+
+nc: 1
+names: ['pothole']
